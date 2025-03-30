@@ -56,5 +56,5 @@ pip install -r requirements.txt
  Displays sample vs population plots.
  Downloadable .txt report with key metrics and test results.
 
-Feedback
+#### Feedback
 For suggestions or improvements, feel free to open an issue or submit a pull request.
